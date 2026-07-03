@@ -10,6 +10,5 @@ wheels/
 .venv
 
 # Custom ignores
-models/
 .DS_Store
 launch.json
