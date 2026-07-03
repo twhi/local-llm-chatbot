@@ -1,0 +1,1 @@
+llama-server -m ./models/qwen.gguf --port 8080 -ngl 99 -c 8192 -np 1 -fa on -b 2048 -ub 2048 --reasoning-preserve
